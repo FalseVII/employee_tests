@@ -1,0 +1,1 @@
+delete from "employee" where "email"='joe@gmail.com'
